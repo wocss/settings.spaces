@@ -1,7 +1,7 @@
 {
   "name": "wocss-settings-spaces",
   "version": "2.0.0",
-  "description": "Gutter variables",
+  "description": "[DEPRECATED] Gutter variables",
   "main": "_settings.spaces.scss",
   "repository": {
     "type": "git",
